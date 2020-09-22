@@ -12,6 +12,7 @@ import s4.spring.td2.models.Organization;
 import s4.spring.td2.models.User;
 import s4.spring.td2.repositories.OrgaRepository;
 import s4.spring.td2.repositories.UserRepository;
+
 @Controller
 public class TestController {
 	
